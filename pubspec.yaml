@@ -1,7 +1,7 @@
 name: kokos_json_transformer
 description: A json transformer tool from Kokos to Ken format.
 version: 1.0.0
-homepage:
+homepage: https://github.com/smeup/kokos-json-transformer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
