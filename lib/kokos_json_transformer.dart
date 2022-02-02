@@ -1,5 +1,3 @@
-library kokos_json_transformer;
-
 enum JsonType { nul, exd, exb, tre, fbk }
 
 class KokosJsonTransformer {

@@ -1,6 +1,8 @@
 name: kokos_json_transformer
 description: A json transformer tool from Kokos to Ken format.
-version: 1.1.0-SNAPSHOT
+version: 1.0.0
+homepage: https://github.com/smeup/kokos-json-transformer
+publish_to: none
 
 environment:
   sdk: ">=2.11.0 <3.0.0"
@@ -9,11 +11,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  ken:
+    path: ../ken
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
