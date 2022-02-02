@@ -213,9 +213,9 @@ packages:
   ken:
     dependency: "direct main"
     description:
-      path: "../ken"
-      relative: true
-    source: path
+      name: ken
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.0.1+7"
   lints:
     dependency: transitive

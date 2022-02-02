@@ -189,7 +189,7 @@
     },
     {
       "name": "ken",
-      "rootUri": "../../ken",
+      "rootUri": "file:///C:/Users/tony/flutter/.pub-cache/hosted/pub.dartlang.org/ken-0.0.1+7",
       "packageUri": "lib/",
       "languageVersion": "2.11"
     },
@@ -542,7 +542,7 @@
       "languageVersion": "2.11"
     }
   ],
-  "generated": "2022-02-02T14:04:25.531083Z",
+  "generated": "2022-02-02T14:07:05.175219Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
