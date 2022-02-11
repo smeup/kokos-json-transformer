@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ken: ^0.0.1+8
+  ken: #^0.0.1+8
+    path: ../ken
 dev_dependencies:
   flutter_test:
     sdk: flutter
