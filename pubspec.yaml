@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ken: ^0.0.1+9
+  ken: ^0.0.1+10
 dev_dependencies:
   flutter_test:
     sdk: flutter
